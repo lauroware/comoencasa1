@@ -1,6 +1,6 @@
-import S1 from "../assets/salado/S1.jpeg";
+import S1 from "../assets/salado/S1.jpg";
 import S2 from "../assets/salado/S2.jpg";
-import S3 from "../assets/salado/S3.jpeg";
+import S3 from "../assets/salado/S3.jpg";
 import S4 from "../assets/salado/S4.jpg";
 import S5 from "../assets/salado/S5.jpg";
 import S6 from "../assets/salado/S6.jpg";
@@ -15,7 +15,7 @@ import S14 from "../assets/salado/S14.jpg";
 import S15 from "../assets/salado/S15.jpg";
 import S16 from "../assets/salado/S16.jpg";
 import S17 from "../assets/salado/S17.jpg";
-import S18 from "../assets/salado/S18.jpeg";
+import S18 from "../assets/salado/S18.jpg";
 
 export default [
   S1,
