@@ -8,7 +8,7 @@ import "swiper/css/navigation";
 
 import "../styles/slider.css";
 
-import { EffectCoverflow, Pagination, Navigation } from "swiper";
+import { EffectCoverflow, Navigation } from "swiper";
 
 const setArrows = () => {
   const myArrowNext = document.querySelectorAll(".swiper-button-next");
@@ -67,7 +67,7 @@ const Slider = ({ images }) => {
           prevEl: ".swiper-button-prev",
           clickable: true,
         }}
-        modules={[EffectCoverflow, Pagination, Navigation]}
+        modules={[EffectCoverflow, Navigation]}
         className="swiper_container"
       >
         {images.map((image, index) => (
